@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 28b5c7c4628743159c7398c1bce35f43, type: 3}
+  m_Name: BoxStateManager
+  m_EditorClassIdentifier: 
+  _boxStates:
+  - {fileID: 11400000, guid: 322422d8f35bbac47acd87c4a76f07a0, type: 2}
+  - {fileID: 11400000, guid: e4951360bcaba3c4e8a2a37859619128, type: 2}
+  - {fileID: 11400000, guid: 24666bc41d1e1054b8e7e4572fcdd4c3, type: 2}
